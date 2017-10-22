@@ -1,10 +1,10 @@
-package main
+package hello
 
 import (
 	"fmt"
 )
 
-func main() {
+func Log() {
 	fmt.Println("----------CODEPANDA--------")
 	fmt.Println("Hello Gopher..")
 }
